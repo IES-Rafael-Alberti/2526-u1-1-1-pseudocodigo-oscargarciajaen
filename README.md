@@ -1,3 +1,14 @@
+## Identificación de la Actividad
+- *ID de la Actividad:* 1.1: Algoritmos en pseudocódigo (RA1.a)
+- *Módulo:* PROG
+- *Unidad de Trabajo:* U1: Primer programa en python
+- *Fecha de Creación:* 19/9/25
+- *Fecha de Entrega:* 23/9/25
+- *Alumno(s):*
+    - *Nombre y Apellidos:* Óscar García Jaén
+    - *Correo electrónico:* ogarjae565@g.educaand.es
+    - *Iniciales del Alumno/Grupo:* OGJ
+
 # P1.1 - Algoritmos en pseudocódigo (RA1.a)
 
 ## 1. Si un número X es par o impar
@@ -81,9 +92,4 @@
 
 - **Kotlin:** [Número X ¿Es Primo?](1.3.kt)
 
-**Realizado por: Óscar García Jaén**
-
-**Enviado el 19/09/2025**
-
-**Asignatura: Programación**
 
